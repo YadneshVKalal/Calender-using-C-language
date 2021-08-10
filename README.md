@@ -10,6 +10,7 @@ This project has following features.
   <li>It displays a nicely formatted calendar of every month.</li>
   <li>You can find the day by entering the day, month and year. For example, if you enter day = 10, month = 08 and year = 2021, it gives you the day ‘Sunday’.</li>
   <li>You can add the note for a particular day.</li>
+  <li>Exit</li>
 </ol>
 <h2> Build With </h2> 
 <ul>
