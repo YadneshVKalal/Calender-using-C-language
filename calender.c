@@ -1,4 +1,5 @@
-//Created by Yadnesh V Kalal
+//Calender using C programming Language
+
 
 #include <stdio.h>
 #include <stdlib.h>
